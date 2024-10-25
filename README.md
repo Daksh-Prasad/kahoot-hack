@@ -17,4 +17,16 @@ Made by Daksh Prasad
 
 9. Go back to Tampermonkey new file, and select all the default text and delete it
 10. Paste the code you copied from Github
-11. Go to [kahoot.it](https://kahoot.it/) and the popup should appear
+11. Go to [kahoot.it](https://kahoot.it/) and the kahoot hack popup should appear
+
+## Usage Instructions
+1. Open up [kahoot.it](https://kahoot.it/) and the kahoot hack popup should appear
+2. Use the '-' button to minimize the popup
+3. Hover over 'Kahoot Hack' and hold it to move it
+4. Enter the Quiz Id, you can find this on your teachers board
+5. Scroll the 'points per question' and choose the amount of points you want (only for auto answer)
+6. 'Auto Answer' will automatically answer questions
+7. 'Show Answers' will make the correct answer green and the incorrect answers red
+
+**Note:**
+If your teacher selects the 'randomize order of answers' this hack will not perform correctly.
