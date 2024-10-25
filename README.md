@@ -6,6 +6,7 @@ Made by Daksh Prasad
 2. Click on the Tampermonkey extension icon, then click on the prompt 'Please enable developer mode to allow userscript injection. Click here for more info how to do this.'
 
 ![image](https://github.com/user-attachments/assets/c1075c78-7eed-47a6-a457-58df549451e8)
+
 3. Once you follow those steps which the prompt goes to, developer mode should be active
 4. Then go back to the extension and click on 'dashboard'
 5. Click on the '+'button <img width="1432" alt="image" src="https://github.com/user-attachments/assets/280a88b1-200c-4c00-89bd-10de183ed53e">
